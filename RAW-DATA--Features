@@ -1,3 +1,5 @@
+#Please Check spacing, before using the feature set!
+
 Sr.No.	Atoms		EN	IP	EA	Radius(r)	Valancey	HOMO(h)	LOMO(l)	en^2	(en)^1/2	en^3	ln(1+en)	ip^2	(ip)^1/2	ip^3	ln(1+ip)	r^2	r^(1/2)	r^3	ln(1+r)	v^2	(v)^(1/2)	(v)^3	ln(1+v)
 	M and M' atoms features																								
 1	Sc		1.36	633.1	18.1	1.84	3			1.8496	1.166190379	2.515456	0.858661619	400815.61	25.16147849	253756362.7	6.452206671	3.3856	1.356465997	6.229504	1.043804052	9	1.732050808	27	1.386294361
