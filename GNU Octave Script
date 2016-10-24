@@ -1,4 +1,3 @@
-% Machine Learning scipt to predict PBE Bandgap values %
 name=input("Enter the file name of training data: ","s");
 first_column=input("Enter the first column of the Training Data:");
 last_column=input("Enter the last column of the trainig data, i.e the predicting values:"); %Enter the values to be predicted%
